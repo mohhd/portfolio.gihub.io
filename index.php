@@ -35,7 +35,7 @@ $latestVideoId = $result['items'][0]['id']['playlistId'];
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
 
     <!-- My CSS -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 
     <title>My Portfolio</title>
   </head>
@@ -67,7 +67,7 @@ $latestVideoId = $result['items'][0]['id']['playlistId'];
     <div class="jumbotron" id="home">
       <div class="container">
         <div class="text-center">
-          <img src="img/profile3.jpg" class="rounded-circle img-thumbnail">
+          <img src="profile3.jpg" class="rounded-circle img-thumbnail">
           <h1 class="display-4">Mohadi</h1>
           <h3 class="lead">Student | IT</h3>
         </div>
@@ -126,7 +126,7 @@ $latestVideoId = $result['items'][0]['id']['playlistId'];
           <div class="col-md-5">
             <div class="row">
               <div class="col-md-4">
-              <img src="img/profile2.png" width="200" class="rounded-circle img-thumbnail">
+              <img src="profile2.png" width="200" class="rounded-circle img-thumbnail">
               </div>
               <div class="col-md-8">
                 <h5>@_mohhd8</h5>
@@ -136,13 +136,13 @@ $latestVideoId = $result['items'][0]['id']['playlistId'];
             <div class="row mt-3 pb-3">
               <div class="col">
                 <div class="ig-thumbnail">
-                  <img src="img/thumbs/1.png">
+                  <img src="1.png">
                 </div>
                 <div class="ig-thumbnail">
-                  <img src="img/thumbs/2.png">
+                  <img src="2.png">
                 </div>
                 <div class="ig-thumbnail">
-                  <img src="img/thumbs/3.png">
+                  <img src="3.png">
                 </div>
               </div>
             </div>
